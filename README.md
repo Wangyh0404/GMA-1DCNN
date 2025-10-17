@@ -4,5 +4,5 @@ Code and scripts for the experiments described in the paper using the CWRU datas
 You can install all dependencies using:
   pip install -r requirements.txt
 
-The CWRU dataset, which can be freely downloaded from https://engineering.case.edu/bearingdatacenter.
+
 
